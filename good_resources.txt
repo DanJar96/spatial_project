@@ -16,5 +16,6 @@ https://tilastokeskus-kartta.swgis.fi/?lang=en <map data from statistics finland
 
 https://www.hindawi.com/journals/cmmm/2021/7196492/ <spatial prediction of covid-19 spread in China>
 
+https://github.com/geohai/COVID19-STGXB <similar exercise done, with CODE!>
 
 
