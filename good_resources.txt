@@ -1,0 +1,20 @@
+https://ava.vaylapilvi.fi/ava/Tiest%C3%B6tiedot/Tieosoiteverkko <road network of finland>
+
+https://vayla.fi/en/transport-network/data/open-data/road-network <finnish transport infrastructure agency>
+
+https://www.nature.com/articles/s41598-020-79148-7 <A novel framework for spatio-temporal prediction of environmental data using deep learning>
+
+https://data.humdata.org/dataset/social-connectedness-index? <fb social connectedness index>
+
+https://www.nature.com/articles/s41467-021-26742-6 <Spatiotemporal prediction of COVID-19 cases>
+
+https://www.sciencedirect.com/science/article/pii/S2352340920309616 <The hidden Markov chain modelling of the COVID-19 spreading using Moroccan dataset>
+
+https://www.koronatilastot.fi/fi/kunnat/ <covid19 infections by municipality (can be aggregated to province/NUTS-3 easily>
+
+https://tilastokeskus-kartta.swgis.fi/?lang=en <map data from statistics finland>
+
+https://www.hindawi.com/journals/cmmm/2021/7196492/ <spatial prediction of covid-19 spread in China>
+
+
+
