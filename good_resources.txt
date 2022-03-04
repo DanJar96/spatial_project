@@ -18,4 +18,12 @@ https://www.hindawi.com/journals/cmmm/2021/7196492/ <spatial prediction of covid
 
 https://github.com/geohai/COVID19-STGXB <similar exercise done, with CODE!>
 
+https://www.hel.fi/helsinki/fi/kartat-ja-liikenne/kadut-ja-liikennesuunnittelu/tutkimus-ja-tilastot <mobility data from Helsinki>
+
+https://www.google.com/covid19/mobility/data_documentation.html?hl=en <Community Mobility Reports, GOOGLE (daily, granular). 
+
+------------[IDEAS]---------------
+
+
+
 
