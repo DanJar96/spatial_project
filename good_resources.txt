@@ -13,6 +13,10 @@ https://www.hel.fi/helsinki/fi/kartat-ja-liikenne/kadut-ja-liikennesuunnittelu/t
 
 https://www.google.com/covid19/mobility/data_documentation.html?hl=en <Community Mobility Reports, GOOGLE (daily, granular). 
 
+https://thl.fi/en/web/thlfi-en/statistics-and-data/data-and-services/open-data/confirmed-corona-cases-in-finland-covid-19- <official covid statistics by THL>
+
+https://sampo.thl.fi/pivot/prod/en/epirapo/covid19case/fact_epirapo_covid19case?&row=dateweek20200101-509030&column=hcdmunicipality2020-445222&fo <interactive of the above>
+
 
 
 ------------[PAPERS]------------
@@ -37,6 +41,9 @@ https://github.com/geohai/COVID19-STGXB <similar exercise done, with CODE! from 
 
 
 
+-----------[OTHER]--------------
+
+http://jsonviewer.stack.hu/ 
 
 ------------[IDEAS]---------------
 
