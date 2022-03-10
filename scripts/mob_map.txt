@@ -1,0 +1,20 @@
+Code,Subdivision name (fi),Subdivision name (sv),Subdivision Name (en)
+FI-01,Ahvenanmaan maakunta,Landskapet Åland,Åland
+FI-02,Etelä-Karjala,Södra Karelen,South Karelia
+FI-03,Etelä-Pohjanmaa,Södra Österbotten,Southern Ostrobothnia
+FI-04,Etelä-Savo,Södra Savolax,Southern Savonia
+FI-05,Kainuu,Kajanaland,Kainuu
+FI-06,Kanta-Häme,Egentliga Tavastland,Tavastia Proper
+FI-07,Keski-Pohjanmaa,Mellersta Österbotten,Central Ostrobothnia
+FI-08,Keski-Suomi,Mellersta Finland,Central Finland
+FI-09,Kymenlaakso,Kymmenedalen,Kymenlaakso
+FI-10,Lappi,Lappland,Lapland
+FI-11,Pirkanmaa,Birkaland,Pirkanmaa
+FI-12,Pohjanmaa,Österbotten,Ostrobothnia
+FI-13,Pohjois-Karjala,Norra Karelen,North Karelia
+FI-14,Pohjois-Pohjanmaa,Norra Österbotten,Northern Ostrobothnia
+FI-15,Pohjois-Savo,Norra Savolax,Northern Savonia
+FI-16,Päijät-Häme,Päijänne-Tavastland,Päijänne Tavastia
+FI-17,Satakunta,Satakunda,Satakunta
+FI-18,Uusimaa,Nyland,Uusimaa
+FI-19,Varsinais-Suomi,Egentliga Finland,Southwest Finland
