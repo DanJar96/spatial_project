@@ -1,0 +1,399 @@
+Population	Year 
+WHOLE COUNTRY	5,533,793
+Akaa	16,391
+Alajärvi	9,419
+Alavieska	2,517
+Alavus	11,332
+Asikkala	8,059
+Askola	4,878
+Aura	3,959
+Brändö	449
+Eckerö	958
+Enonkoski	1,369
+Enontekiö	1,808
+Espoo	292,796
+Eura	11,483
+Eurajoki	9,452
+Evijärvi	2,408
+Finström	2,603
+Forssa	16,800
+Föglö	526
+Geta	511
+Haapajärvi	6,896
+Haapavesi	6,667
+Hailuoto	949
+Halsua	1,103
+Hamina	19,877
+Hammarland	1,599
+Hankasalmi	4,782
+Hanko	8,042
+Harjavalta	6,869
+Hartola	2,655
+Hattula	9,389
+Hausjärvi	8,175
+Heinola	18,497
+Heinävesi	3,196
+Helsinki	656,920
+Hirvensalmi	2,156
+Hollola	23,251
+Huittinen	9,937
+Humppila	2,174
+Hyrynsalmi	2,199
+Hyvinkää	46,576
+Hämeenkyrö	10,344
+Hämeenlinna	67,848
+Ii	9,848
+Iisalmi	21,124
+Iitti	6,625
+Ikaalinen	6,866
+Ilmajoki	12,294
+Ilomantsi	4,749
+Imatra	26,075
+Inari	6,862
+Ingå	5,321
+Isojoki	1,925
+Isokyrö	4,471
+Janakkala	16,237
+Joensuu	76,935
+Jokioinen	5,061
+Jomala	5,386
+Joroinen	4,689
+Joutsa	4,297
+Juuka	4,527
+Juupajoki	1,800
+Juva	5,932
+Jyväskylä	143,420
+Jämijärvi	1,707
+Jämsä	19,887
+Järvenpää	44,455
+Kaarina	34,667
+Kaavi	2,807
+Kajaani	36,567
+Kalajoki	12,400
+Kangasala	32,214
+Kangasniemi	5,312
+Kankaanpää	12,758
+Kannonkoski	1,323
+Kannus	5,426
+Karijoki	1,207
+Karkkila	8,696
+Karstula	3,858
+Karvia	2,322
+Kaskinen	1,278
+Kauhajoki	13,007
+Kauhava	15,514
+Kauniainen	10,178
+Kaustinen	4,228
+Keitele	2,155
+Kemi	20,437
+Kemijärvi	7,191
+Keminmaa	7,984
+Kimitoön	6,609
+Kempele	18,796
+Kerava	37,105
+Keuruu	9,486
+Kihniö	1,822
+Kinnula	1,597
+Kirkkonummi	40,082
+Kitee	9,933
+Kittilä	6,436
+Kiuruvesi	7,854
+Kivijärvi	1,107
+Kokemäki	7,013
+Kokkola	47,772
+Kolari	3,925
+Konnevesi	2,593
+Kontiolahti	14,857
+Korsnäs	2,068
+Koski Tl	2,292
+Kotka	51,668
+Kouvola	81,187
+Kristinestad	6,404
+Kronoby	6,416
+Kuhmo	8,042
+Kuhmoinen	2,161
+Kumlinge	307
+Kuopio	120,210
+Kuortane	3,534
+Kurikka	20,456
+Kustavi	962
+Kuusamo	15,213
+Kyyjärvi	1,288
+Kärkölä	4,326
+Kärsämäki	2,538
+Kökar	225
+Lahti	119,984
+Laihia	7,996
+Laitila	8,468
+Lapinjärvi	2,621
+Lapinlahti	9,358
+Lappajärvi	2,925
+Lappeenranta	72,662
+Lapua	14,221
+Laukaa	18,823
+Lemi	2,964
+Lemland	2,114
+Lempäälä	23,828
+Leppävirta	9,402
+Lestijärvi	722
+Lieksa	10,719
+Lieto	20,146
+Liminka	10,238
+Liperi	11,994
+Lohja	45,886
+Loimaa	15,770
+Loppi	7,853
+Loviisa	14,745
+Luhanka	699
+Lumijoki	2,036
+Lumparland	372
+Larsmo	5,534
+Luumäki	4,543
+Malax	5,451
+Mariehamn	11,705
+Marttila	1,999
+Masku	9,543
+Merijärvi	1,078
+Merikarvia	3,066
+Miehikkälä	1,868
+Mikkeli	52,583
+Muhos	8,903
+Multia	1,558
+Muonio	2,297
+Korsholm	19,453
+Muurame	10,267
+Mynämäki	7,645
+Myrskylä	1,871
+Mäntsälä	20,783
+Mänttä-Vilppula	9,673
+Mäntyharju	5,676
+Naantali	19,427
+Nakkila	5,256
+Nivala	10,500
+Nokia	34,476
+Nousiainen	4,693
+Nurmes	9,501
+Nurmijärvi	43,663
+Närpes	9,558
+Orimattila	15,882
+Oripää	1,334
+Orivesi	9,008
+Oulainen	7,155
+Oulu	207,327
+Outokumpu	6,552
+Padasjoki	2,861
+Paimio	10,922
+Paltamo	3,235
+Pargas	15,105
+Parikkala	4,655
+Parkano	6,352
+Pedersöre	11,174
+Pelkosenniemi	931
+Pello	3,304
+Perho	2,706
+Pertunmaa	1,654
+Petäjävesi	3,772
+Pieksämäki	17,375
+Pielavesi	4,321
+Jakobstad	19,066
+Pihtipudas	3,931
+Pirkkala	19,803
+Polvijärvi	4,201
+Pomarkku	2,063
+Pori	83,684
+Pornainen	5,070
+Porvoo	50,619
+Posio	3,117
+Pudasjärvi	7,779
+Pukkila	1,833
+Punkalaidun	2,785
+Puolanka	2,491
+Puumala	2,137
+Pyhtää	5,125
+Pyhäjoki	3,051
+Pyhäjärvi	5,033
+Pyhäntä	1,593
+Pyhäranta	1,994
+Pälkäne	6,415
+Pöytyä	8,229
+Raahe	24,353
+Raasepori	27,528
+Raisio	24,407
+Rantasalmi	3,364
+Ranua	3,712
+Rauma	39,040
+Rautalampi	3,053
+Rautavaara	1,561
+Rautjärvi	3,146
+Reisjärvi	2,710
+Riihimäki	28,710
+Ristijärvi	1,235
+Rovaniemi	63,528
+Ruokolahti	4,922
+Ruovesi	4,215
+Rusko	6,354
+Rääkkylä	2,066
+Saarijärvi	9,208
+Salla	3,407
+Salo	51,562
+Saltvik	1,806
+Sastamala	24,052
+Sauvo	2,950
+Savitaipale	3,326
+Savonlinna	32,662
+Savukoski	1,009
+Seinäjoki	64,130
+Sievi	4,834
+Siikainen	1,385
+Siikajoki	5,034
+Siikalatva	5,203
+Siilinjärvi	21,251
+Simo	2,950
+Sipoo	21,687
+Siuntio	6,149
+Sodankylä	8,266
+Soini	2,007
+Somero	8,646
+Sonkajärvi	3,841
+Sotkamo	10,301
+Sottunga	101
+Sulkava	2,482
+Sund	1,007
+Suomussalmi	7,594
+Suonenjoki	6,931
+Sysmä	3,631
+Säkylä	6,646
+Taipalsaari	4,628
+Taivalkoski	3,916
+Taivassalo	1,659
+Tammela	6,016
+Tampere	241,009
+Tervo	1,503
+Tervola	2,925
+Teuva	4,994
+Tohmajärvi	4,307
+Toholampi	2,966
+Toivakka	2,401
+Tornio	21,467
+Turku	194,391
+Tuusniemi	2,433
+Tuusula	38,783
+Tyrnävä	6,603
+Ulvila	12,735
+Urjala	4,644
+Utajärvi	2,619
+Utsjoki	1,219
+Uurainen	3,646
+Nykarleby	7,479
+Uusikaupunki	15,378
+Vaala	2,737
+Vaasa	67,551
+Valkeakoski	20,765
+Vantaa	237,231
+Varkaus	20,278
+Vehmaa	2,292
+Vesanto	1,972
+Vesilahti	4,367
+Veteli	3,065
+Vieremä	3,522
+Vihti	29,160
+Viitasaari	6,097
+Vimpeli	2,784
+Virolahti	3,087
+Virrat	6,510
+Vårdö	460
+Vöyri	6,388
+Ylitornio	3,890
+Ylivieska	15,304
+Ylöjärvi	33,352
+Ypäjä	2,314
+Ähtäri	5,522
+Äänekoski	18,577
+Uusimaa	1,702,678
+Southwest Finland	481,403
+Satakunta	215,416
+Kanta-Häme	170,577
+Pirkanmaa	522,852
+Päijät-Häme	205,771
+Kymenlaakso	162,812
+South Karelia	126,921
+South Savo	132,702
+North Savo	248,265
+North Karelia	163,537
+Central Finland	272,617
+South Ostrobothnia	192,150
+Ostrobothnia	175,816
+Central Ostrobothnia	67,988
+North Ostrobothnia	413,830
+Kainuu	71,664
+Lapland	176,665
+Åland	30,129
+Helsinki sub-regional unit	1,585,220
+Raasepori sub-regional unit	40,891
+Porvoo sub-regional unit	59,201
+Loviisa sub-regional unit	17,366
+Åboland-Turunmaa sub-regional unit	21,714
+Salo sub-regional unit	60,208
+Turku sub-regional unit	335,145
+Vakka-Suomi sub-regional unit	30,753
+Loimaa sub-regional unit	33,583
+Rauma sub-regional unit	66,621
+Pori sub-regional unit	130,623
+Pohjois-Satakunta sub-regional unit	18,172
+Hämeenlinna sub-regional unit	93,474
+Riihimäki sub-regional unit	44,738
+Forssa sub-regional unit	32,365
+Luoteis-Pirkanmaa sub-regional unit	15,040
+Etelä-Pirkanmaa sub-regional unit	41,800
+Tampere sub-regional unit	416,977
+Lounais-Pirkanmaa sub-regional unit	26,837
+Ylä-Pirkanmaa sub-regional unit	22,198
+Lahti sub-regional unit	205,771
+Kouvola sub-regional unit	81,187
+Kotka-Hamina sub-regional unit	81,625
+Lappeenranta sub-regional unit	88,123
+Imatra sub-regional unit	38,798
+Mikkeli sub-regional unit	69,518
+Savonlinna sub-regional unit	39,877
+Pieksämäki sub-regional unit	23,307
+Ylä-Savo sub-regional unit	52,175
+Kuopio sub-regional unit	141,461
+Koillis-Savo sub-regional unit	6,801
+Varkaus sub-regional unit	34,369
+Sisä-Savo sub-regional unit	13,459
+Joensuu sub-regional unit	127,011
+Keski-Karjala sub-regional unit	16,306
+Pielisen Karjala sub-regional unit	20,220
+Jyväskylä sub-regional unit	187,111
+Joutsa sub-regional unit	4,996
+Keuruu sub-regional unit	11,044
+Jämsä sub-regional unit	19,887
+Äänekoski sub-regional unit	21,170
+Saarijärvi-Viitasaari sub-regional unit	28,409
+Suupohja sub-regional unit	21,133
+Seinäjoki sub-regional unit	131,086
+Kuusiokunnat sub-regional unit	20,388
+Järviseutu sub-regional unit	19,543
+Vaasa sub-regional unit	108,907
+Sydösterbotten sub-regional unit	17,240
+Jakobstadsregionen sub-regional unit	49,669
+Kaustinen sub-regional unit	14,790
+Kokkola sub-regional unit	53,198
+Oulu sub-regional unit	254,852
+Oulunkaari sub-regional unit	22,983
+Raahe sub-regional unit	32,438
+Haapavesi-Siikalatva sub-regional unit	13,463
+Nivala-Haapajärvi sub-regional unit	27,677
+Ylivieska sub-regional unit	43,288
+Koillismaa sub-regional unit	19,129
+Kehys-Kainuu sub-regional unit	20,326
+Kajaani sub-regional unit	51,338
+Rovaniemi sub-regional unit	67,240
+Kemi-Tornio sub-regional unit	55,763
+Torniolaakso sub-regional unit	7,194
+Itä-Lappi sub-regional unit	15,655
+Tunturi-Lappi sub-regional unit	14,466
+Pohjois-Lappi sub-regional unit	16,347
+Mariehamns stad sub-regional unit	11,705
+Ålands landsbygd sub-regional unit	16,356
+Ålands skärgård sub-regional unit	2,068
