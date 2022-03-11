@@ -23,6 +23,7 @@ https://sampo.thl.fi/pivot/prod/fi/epirapo/covid19case/fact_epirapo_covid19case?
 
 https://pxnet2.stat.fi/PXWeb/pxweb/en/Kuntien_avainluvut/Kuntien_avainluvut__2021/kuntien_avainluvut_2021_aikasarja.px/ <MUNICIPAL DATA> -> SOCIOECONOMIC DATA
 
+https://en.ilmatieteenlaitos.fi/download-observations <weather data!!!!!!!!>
 
 
 https://www2.stat.fi/fi/luokitukset/corrmaps/kunta_1_20210101%23maakunta_1_20210101/ <map key between municipalities and provinces>
