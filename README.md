@@ -10,4 +10,4 @@ Advice for what code is important:
 
 3. [The prediction work script for multiple time lags](https://github.com/DanJar96/spatial_project/blob/main/scripts/prediction_work_multilags.ipynb) - this script was used to fit and predict using the XGBRegressor model and multiple period time lagged independent variables.
 
-4. [The prediction interval generation for one time lag](https://github.com/DanJar96/spatial_project/blob/main/scripts/xgb_prediction_intervals.ipynb) this script was used to create the prediction intervals for our model output.
+4. [The prediction interval generation for one time lag](https://github.com/DanJar96/spatial_project/blob/main/scripts/xgb_prediction_intervals.ipynb) - this script was used to create the prediction intervals for our model output.
